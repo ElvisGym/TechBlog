@@ -51,14 +51,9 @@ export default defineUserConfig({
 
             ],
         },
-        docsRepo: 'https://github.com/turbogym/TechBlog',
-        docsBranch: 'main',
-        editLinkText: "编写文档",
         lastUpdated: true,
         lastUpdatedText: '上次更新',
         backToHome: '返回博客首页',
-        contributors: true,
-        contributorsText: 'Contributors',
         notFound: ['萧萧梧叶送寒声 江上秋风动客情', '五月畲田收火米 三更津吏报潮鸡', '女娲炼石补天处 石破天惊逗秋雨', '家家乞巧望秋月 穿尽红丝几万条', '愁作秋浦客 强看秋浦花'],
         toggleSidebar: 'toggle sidebar'
     }),
