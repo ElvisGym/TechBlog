@@ -2,7 +2,7 @@
 home: true
 footer: MIT Licensed | Copyright © 2022&nbsp;&nbsp;<a href="https://beian.miit.gov.cn" target="_blank" rel="nofollow me noopener noreferrer">苏ICP备</a>
 footerHtml: true
-heroText: Hi!
+heroText: 🙋‍♂ ️Hi!
 tagline: Study hard and you'll improve everyday.
 heroImage: /images/favicon.png
 heroAlt: ByOneCup
