@@ -51,6 +51,9 @@ export default defineUserConfig({
 
             ],
         },
+        repo: 'turbogym/TechBlog',
+        docsBranch: 'main/docs',
+        editLinkText: "编写文档",
         lastUpdated: true,
         lastUpdatedText: '上次更新',
         backToHome: '返回博客首页',
