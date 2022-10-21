@@ -21,9 +21,6 @@ export default defineUserConfig({
             }, {
                 text: 'Mac技巧',
                 link: '/mac/start.md',
-            }, {
-                text: 'Github',
-                link: 'https://github.com/turbogym',
             }
         ],
         sidebar: {
