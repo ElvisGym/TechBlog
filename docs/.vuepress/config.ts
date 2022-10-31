@@ -30,7 +30,7 @@ export default defineUserConfig({
                 // SidebarItem
                 {
                     text: 'Mac',
-                    link: '/mac/',
+                    link: '/mac/VMwareFusion.md',
                     children: [
                         // SidebarItem
                         {
